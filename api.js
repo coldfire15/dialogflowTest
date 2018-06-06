@@ -8,7 +8,7 @@ var options={
     'path':'/v1/entities',
     'method':'POST',
     'headers':{
-        'Authorization':'Bearer 27b5948c754346ac96f7e6fc3e4f969b',
+        'Authorization':'Bearer developer token',
         'Content-Type':'application/json'
     }
 };
